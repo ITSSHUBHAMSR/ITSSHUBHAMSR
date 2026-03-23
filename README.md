@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ITSSHUBHAMSR
 - 👀 I’m interested in Frontend VLSI Design
 - 🌱 I’m currently learning
--   Verilog HDL
--   System Verilog
--   UVM
--   Phython
--   C
+-  1. Verilog HDL
+-  2. System Verilog
+-  3. UVM
+-  4. Phython
+-  5. C
 - 💞️ I’m looking to collaborate on VLSI Design Related stuffs
 - 📫 Itsshubhamsr@gmail.com
   
